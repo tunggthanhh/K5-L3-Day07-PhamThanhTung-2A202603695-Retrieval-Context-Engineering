@@ -1,0 +1,68 @@
+{
+  "split": "test",
+  "configs": [
+    {
+      "strategy": "dense",
+      "answerable_questions": 5,
+      "hit_at_1": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "evidence_hit_at_3": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "context_evidence_rate": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "median_ms": 101.26630000013392,
+      "service_cost_usd": 0
+    },
+    {
+      "strategy": "tfidf",
+      "answerable_questions": 5,
+      "hit_at_1": {
+        "n": 0,
+        "N": 5,
+        "rate": 0.0
+      },
+      "evidence_hit_at_3": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "context_evidence_rate": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "median_ms": 9.650799998780712,
+      "service_cost_usd": 0
+    },
+    {
+      "strategy": "hybrid_rrf",
+      "answerable_questions": 5,
+      "hit_at_1": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "evidence_hit_at_3": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "context_evidence_rate": {
+        "n": 1,
+        "N": 5,
+        "rate": 0.2
+      },
+      "median_ms": 102.8883000035421,
+      "service_cost_usd": 0
+    }
+  ]
+}

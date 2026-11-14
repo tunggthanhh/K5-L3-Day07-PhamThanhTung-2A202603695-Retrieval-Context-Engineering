@@ -1,0 +1,68 @@
+{
+  "split": "dev",
+  "configs": [
+    {
+      "strategy": "dense",
+      "answerable_questions": 15,
+      "hit_at_1": {
+        "n": 1,
+        "N": 15,
+        "rate": 0.06666666666666667
+      },
+      "evidence_hit_at_3": {
+        "n": 2,
+        "N": 15,
+        "rate": 0.13333333333333333
+      },
+      "context_evidence_rate": {
+        "n": 1,
+        "N": 15,
+        "rate": 0.06666666666666667
+      },
+      "median_ms": 92.46990000247024,
+      "service_cost_usd": 0
+    },
+    {
+      "strategy": "tfidf",
+      "answerable_questions": 15,
+      "hit_at_1": {
+        "n": 1,
+        "N": 15,
+        "rate": 0.06666666666666667
+      },
+      "evidence_hit_at_3": {
+        "n": 2,
+        "N": 15,
+        "rate": 0.13333333333333333
+      },
+      "context_evidence_rate": {
+        "n": 2,
+        "N": 15,
+        "rate": 0.13333333333333333
+      },
+      "median_ms": 8.26519999827724,
+      "service_cost_usd": 0
+    },
+    {
+      "strategy": "hybrid_rrf",
+      "answerable_questions": 15,
+      "hit_at_1": {
+        "n": 1,
+        "N": 15,
+        "rate": 0.06666666666666667
+      },
+      "evidence_hit_at_3": {
+        "n": 1,
+        "N": 15,
+        "rate": 0.06666666666666667
+      },
+      "context_evidence_rate": {
+        "n": 1,
+        "N": 15,
+        "rate": 0.06666666666666667
+      },
+      "median_ms": 130.42080000013812,
+      "service_cost_usd": 0
+    }
+  ]
+}

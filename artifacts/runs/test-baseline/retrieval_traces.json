@@ -1,0 +1,1334 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "strategy": "dense",
+    "question": "Khi làm thêm giờ vào ban đêm, người lao động được trả thêm bao nhiêu phần trăm tiền lương theo công việc làm vào ban ngày?",
+    "filters": {
+      "chapter": "Chương VI"
+    },
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p42:paragraph:0002",
+        "text": "thêm ít nh ất bằng 30%\ntiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của\nngày làm việc bình thường.\n3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy\nđịnh tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền\nlương tính theo đơn giá ti ền l ương ho ặc ti ền l ương theo công vi ệc làm vào ban\nngày của ngày làm vi ệc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày\nnghỉ lễ, tết.\n4. Chính phủ quy định chi tiết",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 42,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 42,
+          "text_extracted": true,
+          "char_count": 2145,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 543,
+          "char_end": 1041
+        },
+        "score": 0.8883768398472474,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p42:paragraph:0001",
+        "text": "Điều 98. Tiền lương làm thêm giờ, làm việc vào ban đêm\n1. Người lao động làm thêm gi ờ được trả lương tính theo đơn giá ti ền lương\nhoặc tiền lương thực trả theo công việc đang làm như sau:\na) Vào ngày thường, ít nhất bằng 150%;\nb) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;\nc) Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể\ntiền lương ngày l ễ, tết, ngày ngh ỉ có h ưởng lương đối với người lao động hưởng\nlương ngày.\n2. Người lao động làm vi ệc vào ban đêm thì được trả",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 42,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 42,
+          "text_extracted": true,
+          "char_count": 2145,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 1,
+          "char_start": 42,
+          "char_end": 542
+        },
+        "score": 0.8874464259940972,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p41:paragraph:0002",
+        "text": "làm thêm giờ, tiền lương\nlàm việc vào ban đêm, nội dung và số tiền bị khấu trừ (nếu có).\nĐiều 96. Hình thức trả lương\n1. Ng ười s ử d ụng lao động và ng ười lao động th ỏa thu ận v ề hình th ức tr ả\nlương theo thời gian, sản phẩm hoặc khoán.\n2. Lương được trả bằng tiền mặt hoặc trả qua tài kho ản cá nhân c ủa người lao\nđộng được mở tại ngân hàng.\nTrường hợp trả lương qua tài kho ản cá nhân c ủa người lao động được mở tại\nngân hàng thì ng ười sử dụng lao động phải trả các lo ại phí liên quan đến",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 41,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 41,
+          "text_extracted": true,
+          "char_count": 2301,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 542,
+          "char_end": 1041
+        },
+        "score": 0.7527900408981054,
+        "strategy": "dense",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p42:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 42]\nthêm ít nh ất bằng 30%\ntiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của\nngày làm việc bình thường.\n3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy\nđịnh tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền\nlương tính theo đơn giá ti ền l ương ho ặc ti ền l ương theo công vi ệc làm vào ban\nngày của ngày làm vi ệc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày\nnghỉ lễ, tết.\n4. Chính phủ quy định chi tiết\n\n[bo-luat-lao-dong-2019:p42:paragraph:0001 | data/day6/bo_luat_lao_dong.pdf | page 42]\nĐiều 98. Tiền lương làm thêm giờ, làm việc vào ban đêm\n1. Người lao động làm thêm gi ờ được trả lương tính theo đơn giá ti ền lương\nhoặc tiền lương thực trả theo công việc đang làm như sau:\na) Vào ngày thường, ít nhất bằng 150%;\nb) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;\nc) Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể\ntiền lương ngày l ễ, tết, ngày ngh ỉ có h ưởng lương đối với người lao động hưởng\nlương ngày.\n2. Người lao động làm vi ệc vào ban đêm thì được trả\n\n[bo-luat-lao-dong-2019:p41:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 41]\nlàm thêm giờ, tiền lương\nlàm việc vào ban đêm, nội dung và số tiền bị khấu trừ (nếu có).\nĐiều 96. Hình thức trả lương\n1. Ng ười s ử d ụng lao động và ng ười lao động th ỏa thu ận v ề hình th ức tr ả\nlương theo thời gian, sản phẩm hoặc khoán.\n2. Lương được trả bằng tiền mặt hoặc trả qua tài kho ản cá nhân c ủa người lao\nđộng được mở tại ngân hàng.\nTrường hợp trả lương qua tài kho ản cá nhân c ủa người lao động được mở tại\nngân hàng thì ng ười sử dụng lao động phải trả các lo ại phí liên quan đến",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p42:paragraph:0002",
+      "bo-luat-lao-dong-2019:p42:paragraph:0001",
+      "bo-luat-lao-dong-2019:p41:paragraph:0002"
+    ],
+    "elapsed_ms": 220.71069999947213,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "strategy": "dense",
+    "question": "Ngày Quốc khánh người lao động được nghỉ bao nhiêu ngày và hưởng nguyên lương?",
+    "filters": {
+      "chapter": "Chương VII"
+    },
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0005",
+        "text": "một người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 5,
+          "char_start": 2038,
+          "char_end": 2383
+        },
+        "score": 0.7935658723433938,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p46:paragraph:0002",
+        "text": "động các đợt nghỉ giải lao và ghi vào nội quy lao động.\nĐiều 110. Nghỉ chuyển ca\nNgười lao động làm vi ệc theo ca được ngh ỉ ít nh ất 12 gi ờ tr ước khi chuy ển\nsang ca làm việc khác.\nĐiều 111. Nghỉ hằng tuần\n1. M ỗi tu ần, ng ười lao động được nghỉ ít nh ất 24 gi ờ liên t ục. Trong tr ường\nhợp đặc biệt do chu k ỳ lao động không th ể nghỉ hằng tuần thì ng ười sử dụng lao\nđộng có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít\nnhất 04 ngày.\n2. Người sử dụng lao động",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 46,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 46,
+          "text_extracted": true,
+          "char_count": 1866,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 569,
+          "char_end": 1066
+        },
+        "score": 0.7570064576910422,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0004",
+        "text": "người lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 4,
+          "char_start": 1541,
+          "char_end": 2037
+        },
+        "score": 0.7504050274559879,
+        "strategy": "dense",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0005 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmột người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:\n\n[bo-luat-lao-dong-2019:p46:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 46]\nđộng các đợt nghỉ giải lao và ghi vào nội quy lao động.\nĐiều 110. Nghỉ chuyển ca\nNgười lao động làm vi ệc theo ca được ngh ỉ ít nh ất 12 gi ờ tr ước khi chuy ển\nsang ca làm việc khác.\nĐiều 111. Nghỉ hằng tuần\n1. M ỗi tu ần, ng ười lao động được nghỉ ít nh ất 24 gi ờ liên t ục. Trong tr ường\nhợp đặc biệt do chu k ỳ lao động không th ể nghỉ hằng tuần thì ng ười sử dụng lao\nđộng có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít\nnhất 04 ngày.\n2. Người sử dụng lao động\n\n[bo-luat-lao-dong-2019:p47:paragraph:0004 | data/day6/bo_luat_lao_dong.pdf | page 47]\nngười lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0005",
+      "bo-luat-lao-dong-2019:p46:paragraph:0002",
+      "bo-luat-lao-dong-2019:p47:paragraph:0004"
+    ],
+    "elapsed_ms": 67.83960000029765,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "strategy": "dense",
+    "question": "Người lao động làm công việc nặng nhọc, độc hại, nguy hiểm được nghỉ hằng năm bao nhiêu ngày nếu làm đủ 12 tháng?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0002",
+        "text": "sau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người\nkhuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm;\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc\nhại, nguy hiểm.\n2. Người lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động\nthì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.\n3. Trường hợp do thôi việc, bị",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 543,
+          "char_end": 1041
+        },
+        "score": 0.8285701484474579,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p17:paragraph:0001",
+        "text": "06 tháng liên t ục đối v ới ng ười làm vi ệc theo h ợp đồng lao động xác định th ời\nhạn có th ời h ạn t ừ 12 tháng đến 36 tháng ho ặc quá n ửa th ời h ạn h ợp đồng lao\nđộng đối v ới ng ười làm vi ệc theo h ợp đồng lao động xác định th ời h ạn có th ời\nhạn dưới 12 tháng mà kh ả năng lao động chưa hồi phục.\nKhi sức khỏe của người lao động bình ph ục thì ng ười sử dụng lao động xem\nxét để tiếp tục giao kết hợp đồng lao động với người lao động;\nc) Do thiên tai, h ỏa hoạn, dịch bệnh nguy hiểm, địch",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 17,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 17,
+          "text_extracted": true,
+          "char_count": 2063,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 1,
+          "char_start": 42,
+          "char_end": 540
+        },
+        "score": 0.7974424243948189,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p46:paragraph:0002",
+        "text": "động các đợt nghỉ giải lao và ghi vào nội quy lao động.\nĐiều 110. Nghỉ chuyển ca\nNgười lao động làm vi ệc theo ca được ngh ỉ ít nh ất 12 gi ờ tr ước khi chuy ển\nsang ca làm việc khác.\nĐiều 111. Nghỉ hằng tuần\n1. M ỗi tu ần, ng ười lao động được nghỉ ít nh ất 24 gi ờ liên t ục. Trong tr ường\nhợp đặc biệt do chu k ỳ lao động không th ể nghỉ hằng tuần thì ng ười sử dụng lao\nđộng có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít\nnhất 04 ngày.\n2. Người sử dụng lao động",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 46,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 46,
+          "text_extracted": true,
+          "char_count": 1866,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 569,
+          "char_end": 1066
+        },
+        "score": 0.7663976195690692,
+        "strategy": "dense",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 47]\nsau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người\nkhuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm;\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc\nhại, nguy hiểm.\n2. Người lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động\nthì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.\n3. Trường hợp do thôi việc, bị\n\n[bo-luat-lao-dong-2019:p17:paragraph:0001 | data/day6/bo_luat_lao_dong.pdf | page 17]\n06 tháng liên t ục đối v ới ng ười làm vi ệc theo h ợp đồng lao động xác định th ời\nhạn có th ời h ạn t ừ 12 tháng đến 36 tháng ho ặc quá n ửa th ời h ạn h ợp đồng lao\nđộng đối v ới ng ười làm vi ệc theo h ợp đồng lao động xác định th ời h ạn có th ời\nhạn dưới 12 tháng mà kh ả năng lao động chưa hồi phục.\nKhi sức khỏe của người lao động bình ph ục thì ng ười sử dụng lao động xem\nxét để tiếp tục giao kết hợp đồng lao động với người lao động;\nc) Do thiên tai, h ỏa hoạn, dịch bệnh nguy hiểm, địch\n\n[bo-luat-lao-dong-2019:p46:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 46]\nđộng các đợt nghỉ giải lao và ghi vào nội quy lao động.\nĐiều 110. Nghỉ chuyển ca\nNgười lao động làm vi ệc theo ca được ngh ỉ ít nh ất 12 gi ờ tr ước khi chuy ển\nsang ca làm việc khác.\nĐiều 111. Nghỉ hằng tuần\n1. M ỗi tu ần, ng ười lao động được nghỉ ít nh ất 24 gi ờ liên t ục. Trong tr ường\nhợp đặc biệt do chu k ỳ lao động không th ể nghỉ hằng tuần thì ng ười sử dụng lao\nđộng có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít\nnhất 04 ngày.\n2. Người sử dụng lao động",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0002",
+      "bo-luat-lao-dong-2019:p17:paragraph:0001",
+      "bo-luat-lao-dong-2019:p46:paragraph:0002"
+    ],
+    "elapsed_ms": 79.6072999946773,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "strategy": "dense",
+    "question": "Sau mỗi 05 năm làm việc cho một người sử dụng lao động, số ngày nghỉ hằng năm của người lao động tăng thêm bao nhiêu?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0005",
+        "text": "một người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 5,
+          "char_start": 2038,
+          "char_end": 2383
+        },
+        "score": 0.8509353981287172,
+        "strategy": "dense",
+        "evidence_hit": true
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0004",
+        "text": "người lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 4,
+          "char_start": 1541,
+          "char_end": 2037
+        },
+        "score": 0.8188288418092616,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p46:paragraph:0002",
+        "text": "động các đợt nghỉ giải lao và ghi vào nội quy lao động.\nĐiều 110. Nghỉ chuyển ca\nNgười lao động làm vi ệc theo ca được ngh ỉ ít nh ất 12 gi ờ tr ước khi chuy ển\nsang ca làm việc khác.\nĐiều 111. Nghỉ hằng tuần\n1. M ỗi tu ần, ng ười lao động được nghỉ ít nh ất 24 gi ờ liên t ục. Trong tr ường\nhợp đặc biệt do chu k ỳ lao động không th ể nghỉ hằng tuần thì ng ười sử dụng lao\nđộng có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít\nnhất 04 ngày.\n2. Người sử dụng lao động",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 46,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 46,
+          "text_extracted": true,
+          "char_count": 1866,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 569,
+          "char_end": 1066
+        },
+        "score": 0.7964013803008695,
+        "strategy": "dense",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0005 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmột người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:\n\n[bo-luat-lao-dong-2019:p47:paragraph:0004 | data/day6/bo_luat_lao_dong.pdf | page 47]\nngười lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho\n\n[bo-luat-lao-dong-2019:p46:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 46]\nđộng các đợt nghỉ giải lao và ghi vào nội quy lao động.\nĐiều 110. Nghỉ chuyển ca\nNgười lao động làm vi ệc theo ca được ngh ỉ ít nh ất 12 gi ờ tr ước khi chuy ển\nsang ca làm việc khác.\nĐiều 111. Nghỉ hằng tuần\n1. M ỗi tu ần, ng ười lao động được nghỉ ít nh ất 24 gi ờ liên t ục. Trong tr ường\nhợp đặc biệt do chu k ỳ lao động không th ể nghỉ hằng tuần thì ng ười sử dụng lao\nđộng có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít\nnhất 04 ngày.\n2. Người sử dụng lao động",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0005",
+      "bo-luat-lao-dong-2019:p47:paragraph:0004",
+      "bo-luat-lao-dong-2019:p46:paragraph:0002"
+    ],
+    "elapsed_ms": 101.26630000013392,
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "strategy": "dense",
+    "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong trường hợp nào liên quan đến tiền lương?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p18:paragraph:0003",
+        "text": "Bộ luật này.\nĐiều 40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng\nlao động trái pháp luật\n1. Không được trợ cấp thôi việc.\n2. Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp\nđồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động\ntrong những ngày không báo trước.\n3. Ph ải hoàn tr ả cho ng ười s ử d ụng lao động chi phí đào t ạo quy định t ại\nĐiều 62 c ủa Bộ luật này.\nĐiều 41. Nghĩa vụ của người sử dụng lao động khi đơn phương",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 18,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 18,
+          "text_extracted": true,
+          "char_count": 2077,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 3,
+          "char_start": 1040,
+          "char_end": 1535
+        },
+        "score": 0.8435085479719678,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p19:paragraph:0001",
+        "text": "Trường hợp không còn v ị trí, công vi ệc đã giao k ết trong h ợp đồng lao động\nmà người lao động vẫn muốn làm vi ệc thì hai bên th ỏa thuận để sửa đổi, bổ sung\nhợp đồng lao động.\nTrường hợp vi phạm quy định về thời hạn báo trước quy định tại khoản 2 Điều 36\ncủa Bộ luật này thì phải trả một khoản tiền tương ứng với tiền lương theo hợp đồng\nlao động trong những ngày không báo trước.\n2. Trường hợp người lao động không muốn tiếp tục làm việc thì ngoài khoản tiền\nphải trả quy định tại khoản 1 Điều",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 19,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 19,
+          "text_extracted": true,
+          "char_count": 2277,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 1,
+          "char_start": 42,
+          "char_end": 539
+        },
+        "score": 0.8286978331254388,
+        "strategy": "dense",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p19:paragraph:0002",
+        "text": "này người sử dụng lao động phải trả trợ cấp thôi\nviệc theo quy định tại Điều 46 của Bộ luật này để chấm dứt hợp đồng lao động.\n3. Trường hợp người sử dụng lao động không mu ốn nhận lại người lao động\nvà ng ười lao động đồng ý thì ngoài kho ản ti ền ng ười s ử d ụng lao động ph ải tr ả\ntheo quy định tại khoản 1 Điều này và tr ợ cấp thôi việc theo quy định tại Điều 46\ncủa B ộ lu ật này, hai bên th ỏa thu ận kho ản ti ền b ồi th ường thêm cho ng ười lao\nđộng nhưng ít nhất bằng 02 tháng ti ền lương",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 19,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 19,
+          "text_extracted": true,
+          "char_count": 2277,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 540,
+          "char_end": 1039
+        },
+        "score": 0.8278881299942495,
+        "strategy": "dense",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p18:paragraph:0003 | data/day6/bo_luat_lao_dong.pdf | page 18]\nBộ luật này.\nĐiều 40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng\nlao động trái pháp luật\n1. Không được trợ cấp thôi việc.\n2. Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp\nđồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động\ntrong những ngày không báo trước.\n3. Ph ải hoàn tr ả cho ng ười s ử d ụng lao động chi phí đào t ạo quy định t ại\nĐiều 62 c ủa Bộ luật này.\nĐiều 41. Nghĩa vụ của người sử dụng lao động khi đơn phương\n\n[bo-luat-lao-dong-2019:p19:paragraph:0001 | data/day6/bo_luat_lao_dong.pdf | page 19]\nTrường hợp không còn v ị trí, công vi ệc đã giao k ết trong h ợp đồng lao động\nmà người lao động vẫn muốn làm vi ệc thì hai bên th ỏa thuận để sửa đổi, bổ sung\nhợp đồng lao động.\nTrường hợp vi phạm quy định về thời hạn báo trước quy định tại khoản 2 Điều 36\ncủa Bộ luật này thì phải trả một khoản tiền tương ứng với tiền lương theo hợp đồng\nlao động trong những ngày không báo trước.\n2. Trường hợp người lao động không muốn tiếp tục làm việc thì ngoài khoản tiền\nphải trả quy định tại khoản 1 Điều\n\n[bo-luat-lao-dong-2019:p19:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 19]\nnày người sử dụng lao động phải trả trợ cấp thôi\nviệc theo quy định tại Điều 46 của Bộ luật này để chấm dứt hợp đồng lao động.\n3. Trường hợp người sử dụng lao động không mu ốn nhận lại người lao động\nvà ng ười lao động đồng ý thì ngoài kho ản ti ền ng ười s ử d ụng lao động ph ải tr ả\ntheo quy định tại khoản 1 Điều này và tr ợ cấp thôi việc theo quy định tại Điều 46\ncủa B ộ lu ật này, hai bên th ỏa thu ận kho ản ti ền b ồi th ường thêm cho ng ười lao\nđộng nhưng ít nhất bằng 02 tháng ti ền lương",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p18:paragraph:0003",
+      "bo-luat-lao-dong-2019:p19:paragraph:0001",
+      "bo-luat-lao-dong-2019:p19:paragraph:0002"
+    ],
+    "elapsed_ms": 108.86249999748543,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q16",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "Khi làm thêm giờ vào ban đêm, người lao động được trả thêm bao nhiêu phần trăm tiền lương theo công việc làm vào ban ngày?",
+    "filters": {
+      "chapter": "Chương VI"
+    },
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p42:paragraph:0001",
+        "text": "Điều 98. Tiền lương làm thêm giờ, làm việc vào ban đêm\n1. Người lao động làm thêm gi ờ được trả lương tính theo đơn giá ti ền lương\nhoặc tiền lương thực trả theo công việc đang làm như sau:\na) Vào ngày thường, ít nhất bằng 150%;\nb) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;\nc) Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể\ntiền lương ngày l ễ, tết, ngày ngh ỉ có h ưởng lương đối với người lao động hưởng\nlương ngày.\n2. Người lao động làm vi ệc vào ban đêm thì được trả",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 42,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2145,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 1,
+          "char_start": 42,
+          "char_end": 542
+        },
+        "score": 0.561678438703063,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p42:paragraph:0002",
+        "text": "thêm ít nh ất bằng 30%\ntiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của\nngày làm việc bình thường.\n3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy\nđịnh tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền\nlương tính theo đơn giá ti ền l ương ho ặc ti ền l ương theo công vi ệc làm vào ban\nngày của ngày làm vi ệc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày\nnghỉ lễ, tết.\n4. Chính phủ quy định chi tiết",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 42,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2145,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 543,
+          "char_end": 1041
+        },
+        "score": 0.5507478595437373,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p41:paragraph:0002",
+        "text": "làm thêm giờ, tiền lương\nlàm việc vào ban đêm, nội dung và số tiền bị khấu trừ (nếu có).\nĐiều 96. Hình thức trả lương\n1. Ng ười s ử d ụng lao động và ng ười lao động th ỏa thu ận v ề hình th ức tr ả\nlương theo thời gian, sản phẩm hoặc khoán.\n2. Lương được trả bằng tiền mặt hoặc trả qua tài kho ản cá nhân c ủa người lao\nđộng được mở tại ngân hàng.\nTrường hợp trả lương qua tài kho ản cá nhân c ủa người lao động được mở tại\nngân hàng thì ng ười sử dụng lao động phải trả các lo ại phí liên quan đến",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 41,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2301,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 542,
+          "char_end": 1041
+        },
+        "score": 0.3612000514933831,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p42:paragraph:0001 | data/day6/bo_luat_lao_dong.pdf | page 42]\nĐiều 98. Tiền lương làm thêm giờ, làm việc vào ban đêm\n1. Người lao động làm thêm gi ờ được trả lương tính theo đơn giá ti ền lương\nhoặc tiền lương thực trả theo công việc đang làm như sau:\na) Vào ngày thường, ít nhất bằng 150%;\nb) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;\nc) Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể\ntiền lương ngày l ễ, tết, ngày ngh ỉ có h ưởng lương đối với người lao động hưởng\nlương ngày.\n2. Người lao động làm vi ệc vào ban đêm thì được trả\n\n[bo-luat-lao-dong-2019:p42:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 42]\nthêm ít nh ất bằng 30%\ntiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của\nngày làm việc bình thường.\n3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy\nđịnh tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền\nlương tính theo đơn giá ti ền l ương ho ặc ti ền l ương theo công vi ệc làm vào ban\nngày của ngày làm vi ệc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày\nnghỉ lễ, tết.\n4. Chính phủ quy định chi tiết\n\n[bo-luat-lao-dong-2019:p41:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 41]\nlàm thêm giờ, tiền lương\nlàm việc vào ban đêm, nội dung và số tiền bị khấu trừ (nếu có).\nĐiều 96. Hình thức trả lương\n1. Ng ười s ử d ụng lao động và ng ười lao động th ỏa thu ận v ề hình th ức tr ả\nlương theo thời gian, sản phẩm hoặc khoán.\n2. Lương được trả bằng tiền mặt hoặc trả qua tài kho ản cá nhân c ủa người lao\nđộng được mở tại ngân hàng.\nTrường hợp trả lương qua tài kho ản cá nhân c ủa người lao động được mở tại\nngân hàng thì ng ười sử dụng lao động phải trả các lo ại phí liên quan đến",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p42:paragraph:0001",
+      "bo-luat-lao-dong-2019:p42:paragraph:0002",
+      "bo-luat-lao-dong-2019:p41:paragraph:0002"
+    ],
+    "elapsed_ms": 4.230300000926945,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "Ngày Quốc khánh người lao động được nghỉ bao nhiêu ngày và hưởng nguyên lương?",
+    "filters": {
+      "chapter": "Chương VII"
+    },
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0001",
+        "text": "2. Lao động là ng ười nước ngoài làm vi ệc tại Việt Nam ngoài các ngày ngh ỉ\ntheo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân\ntộc và 01 ngày Quốc khánh của nước họ.\n3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ\nthể ngày nghỉ quy định tại điểm b và điểm đ khoản 1 Điều này.\nĐiều 113. Nghỉ hằng năm\n1. Người lao động làm vi ệc đủ 12 tháng cho m ột người sử dụng lao động thì\nđược nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 1,
+          "char_start": 42,
+          "char_end": 542
+        },
+        "score": 0.38514408754335083,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0005",
+        "text": "một người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 5,
+          "char_start": 2038,
+          "char_end": 2383
+        },
+        "score": 0.3817064987677954,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p46:paragraph:0003",
+        "text": "có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào\nngày Chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động.\n3. Nếu ngày ngh ỉ hằng tu ần trùng v ới ngày ngh ỉ lễ, tết quy định t ại kho ản 1\nĐiều 112 c ủa Bộ lu ật này thì ng ười lao động được nghỉ bù ngày ngh ỉ hằng tu ần\nvào ngày làm việc kế tiếp.\nĐiều 112. Nghỉ lễ, tết\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày\nlễ, tết sau đây:\na) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 46,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 1866,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 3,
+          "char_start": 1067,
+          "char_end": 1560
+        },
+        "score": 0.2675882285549958,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0001 | data/day6/bo_luat_lao_dong.pdf | page 47]\n2. Lao động là ng ười nước ngoài làm vi ệc tại Việt Nam ngoài các ngày ngh ỉ\ntheo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân\ntộc và 01 ngày Quốc khánh của nước họ.\n3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ\nthể ngày nghỉ quy định tại điểm b và điểm đ khoản 1 Điều này.\nĐiều 113. Nghỉ hằng năm\n1. Người lao động làm vi ệc đủ 12 tháng cho m ột người sử dụng lao động thì\nđược nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như\n\n[bo-luat-lao-dong-2019:p47:paragraph:0005 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmột người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:\n\n[bo-luat-lao-dong-2019:p46:paragraph:0003 | data/day6/bo_luat_lao_dong.pdf | page 46]\ncó quyền quyết định sắp xếp ngày nghỉ hằng tuần vào\nngày Chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động.\n3. Nếu ngày ngh ỉ hằng tu ần trùng v ới ngày ngh ỉ lễ, tết quy định t ại kho ản 1\nĐiều 112 c ủa Bộ lu ật này thì ng ười lao động được nghỉ bù ngày ngh ỉ hằng tu ần\nvào ngày làm việc kế tiếp.\nĐiều 112. Nghỉ lễ, tết\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày\nlễ, tết sau đây:\na) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0001",
+      "bo-luat-lao-dong-2019:p47:paragraph:0005",
+      "bo-luat-lao-dong-2019:p46:paragraph:0003"
+    ],
+    "elapsed_ms": 3.7768999973195605,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "Người lao động làm công việc nặng nhọc, độc hại, nguy hiểm được nghỉ hằng năm bao nhiêu ngày nếu làm đủ 12 tháng?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0002",
+        "text": "sau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người\nkhuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm;\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc\nhại, nguy hiểm.\n2. Người lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động\nthì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.\n3. Trường hợp do thôi việc, bị",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 543,
+          "char_end": 1041
+        },
+        "score": 0.6397077439801727,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p67:paragraph:0004",
+        "text": "lao động nữ vào năm 2035.\nKể từ năm 2021, tu ổi nghỉ hưu của người lao động trong điều kiện lao động\nbình thường là đủ 60 tu ổi 03 tháng đối với lao động nam và đủ 55 tu ổi 04 tháng\nđối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam\nvà 04 tháng đối với lao động nữ.\n3. Ng ười lao động b ị suy gi ảm kh ả n ăng lao động; làm ngh ề, công vi ệc đặc\nbiệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy\nhiểm; làm việc ở vùng có điều kiện kinh tế",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 67,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2286,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương XII",
+          "chunking": "paragraph",
+          "chunk_index": 4,
+          "char_start": 1600,
+          "char_end": 2098
+        },
+        "score": 0.49480346794455066,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p56:paragraph:0001",
+        "text": "Điều 137. Bảo vệ thai sản\n1. Người sử dụng lao động không được sử dụng người lao động làm vi ệc ban\nđêm, làm thêm giờ và đi công tác xa trong trường hợp sau đây:\na) Mang thai t ừ tháng th ứ 07 ho ặc từ tháng th ứ 06 n ếu làm vi ệc ở vùng cao,\nvùng sâu, vùng xa, biên giới, hải đảo;\nb) Đang nuôi con d ưới 12 tháng tu ổi, tr ừ tr ường h ợp được ng ười lao động\nđồng ý.\n2. Lao động nữ làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc\nbiệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 56,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2498,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương X",
+          "chunking": "paragraph",
+          "chunk_index": 1,
+          "char_start": 42,
+          "char_end": 538
+        },
+        "score": 0.4389598223101743,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 47]\nsau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người\nkhuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm;\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc\nhại, nguy hiểm.\n2. Người lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động\nthì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.\n3. Trường hợp do thôi việc, bị\n\n[bo-luat-lao-dong-2019:p67:paragraph:0004 | data/day6/bo_luat_lao_dong.pdf | page 67]\nlao động nữ vào năm 2035.\nKể từ năm 2021, tu ổi nghỉ hưu của người lao động trong điều kiện lao động\nbình thường là đủ 60 tu ổi 03 tháng đối với lao động nam và đủ 55 tu ổi 04 tháng\nđối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam\nvà 04 tháng đối với lao động nữ.\n3. Ng ười lao động b ị suy gi ảm kh ả n ăng lao động; làm ngh ề, công vi ệc đặc\nbiệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy\nhiểm; làm việc ở vùng có điều kiện kinh tế\n\n[bo-luat-lao-dong-2019:p56:paragraph:0001 | data/day6/bo_luat_lao_dong.pdf | page 56]\nĐiều 137. Bảo vệ thai sản\n1. Người sử dụng lao động không được sử dụng người lao động làm vi ệc ban\nđêm, làm thêm giờ và đi công tác xa trong trường hợp sau đây:\na) Mang thai t ừ tháng th ứ 07 ho ặc từ tháng th ứ 06 n ếu làm vi ệc ở vùng cao,\nvùng sâu, vùng xa, biên giới, hải đảo;\nb) Đang nuôi con d ưới 12 tháng tu ổi, tr ừ tr ường h ợp được ng ười lao động\nđồng ý.\n2. Lao động nữ làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc\nbiệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0002",
+      "bo-luat-lao-dong-2019:p67:paragraph:0004",
+      "bo-luat-lao-dong-2019:p56:paragraph:0001"
+    ],
+    "elapsed_ms": 12.482400001317728,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "Sau mỗi 05 năm làm việc cho một người sử dụng lao động, số ngày nghỉ hằng năm của người lao động tăng thêm bao nhiêu?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0003",
+        "text": "mất việc làm mà chưa nghỉ hằng năm hoặc chưa\nnghỉ hết số ngày ngh ỉ hằng năm thì được người sử dụng lao động thanh toán ti ền\nlương cho những ngày chưa nghỉ.\n4. Người sử dụng lao động có trách nhiệm quy định lịch nghỉ hằng năm sau khi\ntham khảo ý kiến của người lao động và phải thông báo tr ước cho người lao động\nbiết. Người lao động có th ể thỏa thuận với người sử dụng lao động để nghỉ hằng\nnăm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần.\n5. Khi nghỉ hằng năm mà chưa đến kỳ trả lương,",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 3,
+          "char_start": 1042,
+          "char_end": 1540
+        },
+        "score": 0.5602814103658782,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0005",
+        "text": "một người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 5,
+          "char_start": 2038,
+          "char_end": 2383
+        },
+        "score": 0.47337715443838063,
+        "strategy": "tfidf",
+        "evidence_hit": true
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0004",
+        "text": "người lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 4,
+          "char_start": 1541,
+          "char_end": 2037
+        },
+        "score": 0.42717500024594135,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0003 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmất việc làm mà chưa nghỉ hằng năm hoặc chưa\nnghỉ hết số ngày ngh ỉ hằng năm thì được người sử dụng lao động thanh toán ti ền\nlương cho những ngày chưa nghỉ.\n4. Người sử dụng lao động có trách nhiệm quy định lịch nghỉ hằng năm sau khi\ntham khảo ý kiến của người lao động và phải thông báo tr ước cho người lao động\nbiết. Người lao động có th ể thỏa thuận với người sử dụng lao động để nghỉ hằng\nnăm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần.\n5. Khi nghỉ hằng năm mà chưa đến kỳ trả lương,\n\n[bo-luat-lao-dong-2019:p47:paragraph:0005 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmột người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:\n\n[bo-luat-lao-dong-2019:p47:paragraph:0004 | data/day6/bo_luat_lao_dong.pdf | page 47]\nngười lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0003",
+      "bo-luat-lao-dong-2019:p47:paragraph:0005",
+      "bo-luat-lao-dong-2019:p47:paragraph:0004"
+    ],
+    "elapsed_ms": 9.650799998780712,
+    "hit1": false,
+    "hit3": true,
+    "context_evidence": true
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "strategy": "tfidf",
+    "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong trường hợp nào liên quan đến tiền lương?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p18:paragraph:0002",
+        "text": "ười lao động đang nghỉ thai sản hoặc nuôi\ncon dưới 12 tháng tuổi.\nĐiều 38. Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\nMỗi bên đều có quy ền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\ntrước khi hết thời hạn báo trước nhưng phải thông báo b ằng văn bản và phải được\nbên kia đồng ý.\nĐiều 39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật\nĐơn phương chấm dứt hợp đồng lao động trái pháp luật là trường hợp chấm dứt\nhợp đồng lao động không đúng quy định tại các điều 35, 36 và 37 của",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 18,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2077,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 540,
+          "char_end": 1039
+        },
+        "score": 0.5162619515775912,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p18:paragraph:0003",
+        "text": "Bộ luật này.\nĐiều 40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng\nlao động trái pháp luật\n1. Không được trợ cấp thôi việc.\n2. Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp\nđồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động\ntrong những ngày không báo trước.\n3. Ph ải hoàn tr ả cho ng ười s ử d ụng lao động chi phí đào t ạo quy định t ại\nĐiều 62 c ủa Bộ luật này.\nĐiều 41. Nghĩa vụ của người sử dụng lao động khi đơn phương",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 18,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2077,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 3,
+          "char_start": 1040,
+          "char_end": 1535
+        },
+        "score": 0.43910812241359215,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p16:paragraph:0003",
+        "text": "luật này, trừ trường hợp\ncác bên có thỏa thuận khác;\ng) Người sử dụng lao động cung cấp thông tin không trung th ực theo quy định\ntại khoản 1 Điều 16 c ủa Bộ luật này làm ảnh hưởng đến việc thực hiện hợp đồng\nlao động.\nĐiều 36. Quy ền đơn ph ương ch ấm dứt h ợp đồng lao động c ủa ng ười s ử\ndụng lao động\n1. Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động\ntrong trường hợp sau đây:\na) Người lao động thường xuyên không hoàn thành công vi ệc theo h ợp đồng\nlao động được xác",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 16,
+        "metadata": {
+          "text_extracted": true,
+          "char_count": 2031,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 3,
+          "char_start": 1040,
+          "char_end": 1536
+        },
+        "score": 0.4258007384112824,
+        "strategy": "tfidf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p18:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 18]\nười lao động đang nghỉ thai sản hoặc nuôi\ncon dưới 12 tháng tuổi.\nĐiều 38. Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\nMỗi bên đều có quy ền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\ntrước khi hết thời hạn báo trước nhưng phải thông báo b ằng văn bản và phải được\nbên kia đồng ý.\nĐiều 39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật\nĐơn phương chấm dứt hợp đồng lao động trái pháp luật là trường hợp chấm dứt\nhợp đồng lao động không đúng quy định tại các điều 35, 36 và 37 của\n\n[bo-luat-lao-dong-2019:p18:paragraph:0003 | data/day6/bo_luat_lao_dong.pdf | page 18]\nBộ luật này.\nĐiều 40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng\nlao động trái pháp luật\n1. Không được trợ cấp thôi việc.\n2. Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp\nđồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động\ntrong những ngày không báo trước.\n3. Ph ải hoàn tr ả cho ng ười s ử d ụng lao động chi phí đào t ạo quy định t ại\nĐiều 62 c ủa Bộ luật này.\nĐiều 41. Nghĩa vụ của người sử dụng lao động khi đơn phương\n\n[bo-luat-lao-dong-2019:p16:paragraph:0003 | data/day6/bo_luat_lao_dong.pdf | page 16]\nluật này, trừ trường hợp\ncác bên có thỏa thuận khác;\ng) Người sử dụng lao động cung cấp thông tin không trung th ực theo quy định\ntại khoản 1 Điều 16 c ủa Bộ luật này làm ảnh hưởng đến việc thực hiện hợp đồng\nlao động.\nĐiều 36. Quy ền đơn ph ương ch ấm dứt h ợp đồng lao động c ủa ng ười s ử\ndụng lao động\n1. Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động\ntrong trường hợp sau đây:\na) Người lao động thường xuyên không hoàn thành công vi ệc theo h ợp đồng\nlao động được xác",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p18:paragraph:0002",
+      "bo-luat-lao-dong-2019:p18:paragraph:0003",
+      "bo-luat-lao-dong-2019:p16:paragraph:0003"
+    ],
+    "elapsed_ms": 14.289899998402689,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q16",
+    "split": "test",
+    "strategy": "hybrid_rrf",
+    "question": "Khi làm thêm giờ vào ban đêm, người lao động được trả thêm bao nhiêu phần trăm tiền lương theo công việc làm vào ban ngày?",
+    "filters": {
+      "chapter": "Chương VI"
+    },
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p42:paragraph:0001",
+        "text": "Điều 98. Tiền lương làm thêm giờ, làm việc vào ban đêm\n1. Người lao động làm thêm gi ờ được trả lương tính theo đơn giá ti ền lương\nhoặc tiền lương thực trả theo công việc đang làm như sau:\na) Vào ngày thường, ít nhất bằng 150%;\nb) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;\nc) Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể\ntiền lương ngày l ễ, tết, ngày ngh ỉ có h ưởng lương đối với người lao động hưởng\nlương ngày.\n2. Người lao động làm vi ệc vào ban đêm thì được trả",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 42,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 42,
+          "text_extracted": true,
+          "char_count": 2145,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 1,
+          "char_start": 42,
+          "char_end": 542
+        },
+        "score": 0.03252247488101534,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p42:paragraph:0002",
+        "text": "thêm ít nh ất bằng 30%\ntiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của\nngày làm việc bình thường.\n3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy\nđịnh tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền\nlương tính theo đơn giá ti ền l ương ho ặc ti ền l ương theo công vi ệc làm vào ban\nngày của ngày làm vi ệc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày\nnghỉ lễ, tết.\n4. Chính phủ quy định chi tiết",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 42,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 42,
+          "text_extracted": true,
+          "char_count": 2145,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 543,
+          "char_end": 1041
+        },
+        "score": 0.03252247488101534,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p41:paragraph:0002",
+        "text": "làm thêm giờ, tiền lương\nlàm việc vào ban đêm, nội dung và số tiền bị khấu trừ (nếu có).\nĐiều 96. Hình thức trả lương\n1. Ng ười s ử d ụng lao động và ng ười lao động th ỏa thu ận v ề hình th ức tr ả\nlương theo thời gian, sản phẩm hoặc khoán.\n2. Lương được trả bằng tiền mặt hoặc trả qua tài kho ản cá nhân c ủa người lao\nđộng được mở tại ngân hàng.\nTrường hợp trả lương qua tài kho ản cá nhân c ủa người lao động được mở tại\nngân hàng thì ng ười sử dụng lao động phải trả các lo ại phí liên quan đến",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 41,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 41,
+          "text_extracted": true,
+          "char_count": 2301,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VI",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 542,
+          "char_end": 1041
+        },
+        "score": 0.031746031746031744,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p42:paragraph:0001 | data/day6/bo_luat_lao_dong.pdf | page 42]\nĐiều 98. Tiền lương làm thêm giờ, làm việc vào ban đêm\n1. Người lao động làm thêm gi ờ được trả lương tính theo đơn giá ti ền lương\nhoặc tiền lương thực trả theo công việc đang làm như sau:\na) Vào ngày thường, ít nhất bằng 150%;\nb) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;\nc) Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể\ntiền lương ngày l ễ, tết, ngày ngh ỉ có h ưởng lương đối với người lao động hưởng\nlương ngày.\n2. Người lao động làm vi ệc vào ban đêm thì được trả\n\n[bo-luat-lao-dong-2019:p42:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 42]\nthêm ít nh ất bằng 30%\ntiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của\nngày làm việc bình thường.\n3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy\nđịnh tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền\nlương tính theo đơn giá ti ền l ương ho ặc ti ền l ương theo công vi ệc làm vào ban\nngày của ngày làm vi ệc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày\nnghỉ lễ, tết.\n4. Chính phủ quy định chi tiết\n\n[bo-luat-lao-dong-2019:p41:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 41]\nlàm thêm giờ, tiền lương\nlàm việc vào ban đêm, nội dung và số tiền bị khấu trừ (nếu có).\nĐiều 96. Hình thức trả lương\n1. Ng ười s ử d ụng lao động và ng ười lao động th ỏa thu ận v ề hình th ức tr ả\nlương theo thời gian, sản phẩm hoặc khoán.\n2. Lương được trả bằng tiền mặt hoặc trả qua tài kho ản cá nhân c ủa người lao\nđộng được mở tại ngân hàng.\nTrường hợp trả lương qua tài kho ản cá nhân c ủa người lao động được mở tại\nngân hàng thì ng ười sử dụng lao động phải trả các lo ại phí liên quan đến",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p42:paragraph:0001",
+      "bo-luat-lao-dong-2019:p42:paragraph:0002",
+      "bo-luat-lao-dong-2019:p41:paragraph:0002"
+    ],
+    "elapsed_ms": 112.46419999952195,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "strategy": "hybrid_rrf",
+    "question": "Ngày Quốc khánh người lao động được nghỉ bao nhiêu ngày và hưởng nguyên lương?",
+    "filters": {
+      "chapter": "Chương VII"
+    },
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0005",
+        "text": "một người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 5,
+          "char_start": 2038,
+          "char_end": 2383
+        },
+        "score": 0.03252247488101534,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0001",
+        "text": "2. Lao động là ng ười nước ngoài làm vi ệc tại Việt Nam ngoài các ngày ngh ỉ\ntheo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân\ntộc và 01 ngày Quốc khánh của nước họ.\n3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ\nthể ngày nghỉ quy định tại điểm b và điểm đ khoản 1 Điều này.\nĐiều 113. Nghỉ hằng năm\n1. Người lao động làm vi ệc đủ 12 tháng cho m ột người sử dụng lao động thì\nđược nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 1,
+          "char_start": 42,
+          "char_end": 542
+        },
+        "score": 0.03177805800756621,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p46:paragraph:0002",
+        "text": "động các đợt nghỉ giải lao và ghi vào nội quy lao động.\nĐiều 110. Nghỉ chuyển ca\nNgười lao động làm vi ệc theo ca được ngh ỉ ít nh ất 12 gi ờ tr ước khi chuy ển\nsang ca làm việc khác.\nĐiều 111. Nghỉ hằng tuần\n1. M ỗi tu ần, ng ười lao động được nghỉ ít nh ất 24 gi ờ liên t ục. Trong tr ường\nhợp đặc biệt do chu k ỳ lao động không th ể nghỉ hằng tuần thì ng ười sử dụng lao\nđộng có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít\nnhất 04 ngày.\n2. Người sử dụng lao động",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 46,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 46,
+          "text_extracted": true,
+          "char_count": 1866,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 569,
+          "char_end": 1066
+        },
+        "score": 0.03128054740957967,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0005 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmột người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:\n\n[bo-luat-lao-dong-2019:p47:paragraph:0001 | data/day6/bo_luat_lao_dong.pdf | page 47]\n2. Lao động là ng ười nước ngoài làm vi ệc tại Việt Nam ngoài các ngày ngh ỉ\ntheo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân\ntộc và 01 ngày Quốc khánh của nước họ.\n3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ\nthể ngày nghỉ quy định tại điểm b và điểm đ khoản 1 Điều này.\nĐiều 113. Nghỉ hằng năm\n1. Người lao động làm vi ệc đủ 12 tháng cho m ột người sử dụng lao động thì\nđược nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như\n\n[bo-luat-lao-dong-2019:p46:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 46]\nđộng các đợt nghỉ giải lao và ghi vào nội quy lao động.\nĐiều 110. Nghỉ chuyển ca\nNgười lao động làm vi ệc theo ca được ngh ỉ ít nh ất 12 gi ờ tr ước khi chuy ển\nsang ca làm việc khác.\nĐiều 111. Nghỉ hằng tuần\n1. M ỗi tu ần, ng ười lao động được nghỉ ít nh ất 24 gi ờ liên t ục. Trong tr ường\nhợp đặc biệt do chu k ỳ lao động không th ể nghỉ hằng tuần thì ng ười sử dụng lao\nđộng có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít\nnhất 04 ngày.\n2. Người sử dụng lao động",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0005",
+      "bo-luat-lao-dong-2019:p47:paragraph:0001",
+      "bo-luat-lao-dong-2019:p46:paragraph:0002"
+    ],
+    "elapsed_ms": 102.19859999779146,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "strategy": "hybrid_rrf",
+    "question": "Người lao động làm công việc nặng nhọc, độc hại, nguy hiểm được nghỉ hằng năm bao nhiêu ngày nếu làm đủ 12 tháng?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0002",
+        "text": "sau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người\nkhuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm;\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc\nhại, nguy hiểm.\n2. Người lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động\nthì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.\n3. Trường hợp do thôi việc, bị",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 543,
+          "char_end": 1041
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0004",
+        "text": "người lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 4,
+          "char_start": 1541,
+          "char_end": 2037
+        },
+        "score": 0.02967032967032967,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0005",
+        "text": "một người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 5,
+          "char_start": 2038,
+          "char_end": 2383
+        },
+        "score": 0.02904040404040404,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 47]\nsau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người\nkhuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm;\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc\nhại, nguy hiểm.\n2. Người lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động\nthì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.\n3. Trường hợp do thôi việc, bị\n\n[bo-luat-lao-dong-2019:p47:paragraph:0004 | data/day6/bo_luat_lao_dong.pdf | page 47]\nngười lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho\n\n[bo-luat-lao-dong-2019:p47:paragraph:0005 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmột người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0002",
+      "bo-luat-lao-dong-2019:p47:paragraph:0004",
+      "bo-luat-lao-dong-2019:p47:paragraph:0005"
+    ],
+    "elapsed_ms": 102.8883000035421,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "strategy": "hybrid_rrf",
+    "question": "Sau mỗi 05 năm làm việc cho một người sử dụng lao động, số ngày nghỉ hằng năm của người lao động tăng thêm bao nhiêu?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0005",
+        "text": "một người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 5,
+          "char_start": 2038,
+          "char_end": 2383
+        },
+        "score": 0.03252247488101534,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": true
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0003",
+        "text": "mất việc làm mà chưa nghỉ hằng năm hoặc chưa\nnghỉ hết số ngày ngh ỉ hằng năm thì được người sử dụng lao động thanh toán ti ền\nlương cho những ngày chưa nghỉ.\n4. Người sử dụng lao động có trách nhiệm quy định lịch nghỉ hằng năm sau khi\ntham khảo ý kiến của người lao động và phải thông báo tr ước cho người lao động\nbiết. Người lao động có th ể thỏa thuận với người sử dụng lao động để nghỉ hằng\nnăm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần.\n5. Khi nghỉ hằng năm mà chưa đến kỳ trả lương,",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 3,
+          "char_start": 1042,
+          "char_end": 1540
+        },
+        "score": 0.032018442622950824,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p47:paragraph:0004",
+        "text": "người lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 47,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 47,
+          "text_extracted": true,
+          "char_count": 2383,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương VII",
+          "chunking": "paragraph",
+          "chunk_index": 4,
+          "char_start": 1541,
+          "char_end": 2037
+        },
+        "score": 0.03200204813108039,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p47:paragraph:0005 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmột người sử dụng lao động thì số ngày nghỉ hằng\nnăm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được\ntăng thêm tương ứng 01 ngày.\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà v ẫn hưởng nguyên l ương và ph ải\nthông báo với người sử dụng lao động trong trường hợp sau đây:\n\n[bo-luat-lao-dong-2019:p47:paragraph:0003 | data/day6/bo_luat_lao_dong.pdf | page 47]\nmất việc làm mà chưa nghỉ hằng năm hoặc chưa\nnghỉ hết số ngày ngh ỉ hằng năm thì được người sử dụng lao động thanh toán ti ền\nlương cho những ngày chưa nghỉ.\n4. Người sử dụng lao động có trách nhiệm quy định lịch nghỉ hằng năm sau khi\ntham khảo ý kiến của người lao động và phải thông báo tr ước cho người lao động\nbiết. Người lao động có th ể thỏa thuận với người sử dụng lao động để nghỉ hằng\nnăm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần.\n5. Khi nghỉ hằng năm mà chưa đến kỳ trả lương,\n\n[bo-luat-lao-dong-2019:p47:paragraph:0004 | data/day6/bo_luat_lao_dong.pdf | page 47]\nngười lao động được tạm ứng\ntiền lương theo quy định tại khoản 3 Điều 101 của Bộ luật này.\n6. Khi nghỉ hằng năm, nếu người lao động đi bằng các phương tiện đường bộ,\nđường sắt, đường thủy mà s ố ngày đi đường cả đi và v ề trên 02 ngày thì t ừ ngày\nthứ 03 trở đi được tính thêm th ời gian đi đường ngoài ngày ngh ỉ hằng năm và chỉ\nđược tính cho 01 lần nghỉ trong năm.\n7. Chính phủ quy định chi tiết điều này.\nĐiều 114. Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc\nCứ đủ 05 năm làm việc cho",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p47:paragraph:0005",
+      "bo-luat-lao-dong-2019:p47:paragraph:0003",
+      "bo-luat-lao-dong-2019:p47:paragraph:0004"
+    ],
+    "elapsed_ms": 90.1945000005071,
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "strategy": "hybrid_rrf",
+    "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong trường hợp nào liên quan đến tiền lương?",
+    "filters": null,
+    "results": [
+      {
+        "id": "bo-luat-lao-dong-2019:p18:paragraph:0003",
+        "text": "Bộ luật này.\nĐiều 40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng\nlao động trái pháp luật\n1. Không được trợ cấp thôi việc.\n2. Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp\nđồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động\ntrong những ngày không báo trước.\n3. Ph ải hoàn tr ả cho ng ười s ử d ụng lao động chi phí đào t ạo quy định t ại\nĐiều 62 c ủa Bộ luật này.\nĐiều 41. Nghĩa vụ của người sử dụng lao động khi đơn phương",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 18,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 18,
+          "text_extracted": true,
+          "char_count": 2077,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 3,
+          "char_start": 1040,
+          "char_end": 1535
+        },
+        "score": 0.03252247488101534,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p16:paragraph:0003",
+        "text": "luật này, trừ trường hợp\ncác bên có thỏa thuận khác;\ng) Người sử dụng lao động cung cấp thông tin không trung th ực theo quy định\ntại khoản 1 Điều 16 c ủa Bộ luật này làm ảnh hưởng đến việc thực hiện hợp đồng\nlao động.\nĐiều 36. Quy ền đơn ph ương ch ấm dứt h ợp đồng lao động c ủa ng ười s ử\ndụng lao động\n1. Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động\ntrong trường hợp sau đây:\na) Người lao động thường xuyên không hoàn thành công vi ệc theo h ợp đồng\nlao động được xác",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 16,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 16,
+          "text_extracted": true,
+          "char_count": 2031,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 3,
+          "char_start": 1040,
+          "char_end": 1536
+        },
+        "score": 0.03125763125763126,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      },
+      {
+        "id": "bo-luat-lao-dong-2019:p18:paragraph:0002",
+        "text": "ười lao động đang nghỉ thai sản hoặc nuôi\ncon dưới 12 tháng tuổi.\nĐiều 38. Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\nMỗi bên đều có quy ền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\ntrước khi hết thời hạn báo trước nhưng phải thông báo b ằng văn bản và phải được\nbên kia đồng ý.\nĐiều 39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật\nĐơn phương chấm dứt hợp đồng lao động trái pháp luật là trường hợp chấm dứt\nhợp đồng lao động không đúng quy định tại các điều 35, 36 và 37 của",
+        "source_id": "bo-luat-lao-dong-2019",
+        "source": "data/day6/bo_luat_lao_dong.pdf",
+        "page": 18,
+        "metadata": {
+          "document_id": "bo-luat-lao-dong-2019",
+          "source": "data/day6/bo_luat_lao_dong.pdf",
+          "page": 18,
+          "text_extracted": true,
+          "char_count": 2077,
+          "document_type": "Bộ luật",
+          "year": 2019,
+          "chapter": "Chương III",
+          "chunking": "paragraph",
+          "chunk_index": 2,
+          "char_start": 540,
+          "char_end": 1039
+        },
+        "score": 0.031099324975891997,
+        "strategy": "hybrid_rrf",
+        "evidence_hit": false
+      }
+    ],
+    "context": "[bo-luat-lao-dong-2019:p18:paragraph:0003 | data/day6/bo_luat_lao_dong.pdf | page 18]\nBộ luật này.\nĐiều 40. Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng\nlao động trái pháp luật\n1. Không được trợ cấp thôi việc.\n2. Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp\nđồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động\ntrong những ngày không báo trước.\n3. Ph ải hoàn tr ả cho ng ười s ử d ụng lao động chi phí đào t ạo quy định t ại\nĐiều 62 c ủa Bộ luật này.\nĐiều 41. Nghĩa vụ của người sử dụng lao động khi đơn phương\n\n[bo-luat-lao-dong-2019:p16:paragraph:0003 | data/day6/bo_luat_lao_dong.pdf | page 16]\nluật này, trừ trường hợp\ncác bên có thỏa thuận khác;\ng) Người sử dụng lao động cung cấp thông tin không trung th ực theo quy định\ntại khoản 1 Điều 16 c ủa Bộ luật này làm ảnh hưởng đến việc thực hiện hợp đồng\nlao động.\nĐiều 36. Quy ền đơn ph ương ch ấm dứt h ợp đồng lao động c ủa ng ười s ử\ndụng lao động\n1. Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động\ntrong trường hợp sau đây:\na) Người lao động thường xuyên không hoàn thành công vi ệc theo h ợp đồng\nlao động được xác\n\n[bo-luat-lao-dong-2019:p18:paragraph:0002 | data/day6/bo_luat_lao_dong.pdf | page 18]\nười lao động đang nghỉ thai sản hoặc nuôi\ncon dưới 12 tháng tuổi.\nĐiều 38. Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\nMỗi bên đều có quy ền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động\ntrước khi hết thời hạn báo trước nhưng phải thông báo b ằng văn bản và phải được\nbên kia đồng ý.\nĐiều 39. Đơn phương chấm dứt hợp đồng lao động trái pháp luật\nĐơn phương chấm dứt hợp đồng lao động trái pháp luật là trường hợp chấm dứt\nhợp đồng lao động không đúng quy định tại các điều 35, 36 và 37 của",
+    "context_ids": [
+      "bo-luat-lao-dong-2019:p18:paragraph:0003",
+      "bo-luat-lao-dong-2019:p16:paragraph:0003",
+      "bo-luat-lao-dong-2019:p18:paragraph:0002"
+    ],
+    "elapsed_ms": 140.13320000231033,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false
+  }
+]
